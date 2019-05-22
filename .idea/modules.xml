@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quark/com.quark.iml" filepath="$PROJECT_DIR$/quark/com.quark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quark-common/quark-common.iml" filepath="$PROJECT_DIR$/quark-common/quark-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quark-parent/quark-parent.iml" filepath="$PROJECT_DIR$/quark-parent/quark-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quarkDemo.iml" filepath="$PROJECT_DIR$/.idea/quarkDemo.iml" />
+    </modules>
+  </component>
+</project>
